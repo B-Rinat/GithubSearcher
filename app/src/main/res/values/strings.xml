@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GithubSearcher</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">2415279485218441</string>
+    <string name="fb_login_protocol_scheme">fb2415279485218441</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_gg">GG</string>
+    <string name="title_activity_github">GithubActivity</string>
+    <string name="search_name">Search name</string>
+    <string name="user_name">User name</string>
+    <string name="user_page_url">User page url</string>
+    <string name="user_score">User score</string>
+</resources>
